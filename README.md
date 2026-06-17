@@ -23,9 +23,9 @@
 
 ## 🔬 Sample Data
 
-![Dermoscopy Sample](dermoscopy_sample.png)
+![Dermoscopy Sample](https://raw.githubusercontent.com/yashikasharma2004/SKIN_CANCER_DETECTION--DEEP_LEARNING-/main/dermoscopy_sample.png)
 
-![Skin Lesion Types](skin_lesion_types.png)
+![Skin Lesion Types](https://raw.githubusercontent.com/yashikasharma2004/SKIN_CANCER_DETECTION--DEEP_LEARNING-/main/skin_lesion_types.png)
 
 ---
 
@@ -41,13 +41,13 @@
 
 ## 📈 Training Curves
 
-![Training Accuracy and Loss](training_accuracy_loss_curves.png)
+![Training Accuracy and Loss](https://raw.githubusercontent.com/yashikasharma2004/SKIN_CANCER_DETECTION--DEEP_LEARNING-/main/training_accuracy_loss_curves.png)
 
 ---
 
 ## 🎯 Model Comparison
 
-![Model Validation Comparison](model_validation_comparison.png)
+![Model Validation Comparison](https://raw.githubusercontent.com/yashikasharma2004/SKIN_CANCER_DETECTION--DEEP_LEARNING-/main/model_validation_comparison.png)
 
 ---
 
@@ -55,18 +55,18 @@
 
 Grad-CAM highlights the regions the model focuses on — enabling clinical trust and interpretability.
 
-![Grad-CAM Comparison](gradcam_comparison.png)
+![Grad-CAM Comparison](https://raw.githubusercontent.com/yashikasharma2004/SKIN_CANCER_DETECTION--DEEP_LEARNING-/main/gradcam_comparison.png)
 
 | Original Image | Grad-CAM Heatmap |
 |---------------|-----------------|
-| ![Original 1](gradcam_original_image1.png) | ![Heatmap 1](gradcam_heatmap1.png) |
-| ![Original 2](gradcam_original_image2.png) | ![Heatmap 2](gradcam_heatmap2.png) |
+| ![Original 1](https://raw.githubusercontent.com/yashikasharma2004/SKIN_CANCER_DETECTION--DEEP_LEARNING-/main/gradcam_original_image1.png) | ![Heatmap 1](https://raw.githubusercontent.com/yashikasharma2004/SKIN_CANCER_DETECTION--DEEP_LEARNING-/main/gradcam_heatmap1.png) |
+| ![Original 2](https://raw.githubusercontent.com/yashikasharma2004/SKIN_CANCER_DETECTION--DEEP_LEARNING-/main/gradcam_original_image2.png) | ![Heatmap 2](https://raw.githubusercontent.com/yashikasharma2004/SKIN_CANCER_DETECTION--DEEP_LEARNING-/main/gradcam_heatmap2.png) |
 
 ---
 
 ## 📋 Classification Report (DenseNet121)
 
-![Classification Report](classification_report.png)
+![Classification Report](https://raw.githubusercontent.com/yashikasharma2004/SKIN_CANCER_DETECTION--DEEP_LEARNING-/main/classification_report.png)
 
 | Metric | Score |
 |--------|-------|
@@ -79,7 +79,7 @@ Grad-CAM highlights the regions the model focuses on — enabling clinical trust
 
 ## 🗂️ Confusion Matrix
 
-![Confusion Matrix](confusion_matrix.png)
+![Confusion Matrix](https://raw.githubusercontent.com/yashikasharma2004/SKIN_CANCER_DETECTION--DEEP_LEARNING-/main/confusion_matrix.png)
 
 ---
 
